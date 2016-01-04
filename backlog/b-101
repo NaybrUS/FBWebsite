@@ -2,3 +2,6 @@ Epic: login
 
 As a software engineer I need to understand the Facebook API so that I
 can authenticate users coming to the Naybr website.
+
+It looks like a simple Google search will tell us how to structure the
+Facebook request.
