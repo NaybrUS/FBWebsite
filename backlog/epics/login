@@ -1,1 +1,7 @@
-Landing pad for specifics about login page.
+This epic covers integrating with the FB API to provide a
+user authentication page.
+
+At the end of the day, we need a way to tell new users from
+returning users and we need a way to identify them.
+
+
